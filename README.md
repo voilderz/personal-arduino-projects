@@ -1,13 +1,17 @@
-# Personal Arduino Projects 
+# Personal Arduino and Embedded Systems Projects
 
-This repository contains my basic hardware control algorithms.
+Technical portfolio focused on microcontroller architectures and hardware-software integration for mechatronics applications.
 
-## Project: Personal Project V1
-Basic control system made by using Arduino.
+## Technical Scope
 
-### Hardware Requirements
-* **Microcontroller:** Arduino Mega 2560 R3
-* **Components:**  1 x Photoresistor, 1 x 9G Servo, 1 x Buzzer, 1 x Rgb 3 Color Module, 1 x IIC 1602 Lcd, 3 x 10k Ohm Resistor, 1 x Breadboard and Jumper Wires (M-M / F-M Assorted)
+- Languages: C++ (Arduino/Embedded)
 
-### Academic Context
-This project is just a fundemental dive to world of microcontrollers and how they work. Intent is getting better understanding in this field to create better, more complex projects with my abilities.
+- Environment: Arduino IDE 
+
+- Core Hardware: Arduino Mega 2560 R3
+
+## Project Structure
+
+This repository is organized into modular sub-directories. Each folder contains its own source code and technical documentation.
+
+All modules developed for embedded systems and microcontroller architectures can be accessed through their respective directories.
